@@ -56,3 +56,6 @@ def quiz():
 print("\n your quiz is finished!")
 
 print(f"your total score is : {score} out of {len(questions)}")  # len function gives total number of questions
+
+
+run_quiz()
